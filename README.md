@@ -30,4 +30,4 @@ Not intended for end users yet.
 
 ## Credits
 
-Special thanks to Antony Mo for external testing and feedback on several XX16c/XACP experimental builds during the development process.
+Special thanks to Antony Mo for external testing and feedback on several XACP experimental builds during the development process.
