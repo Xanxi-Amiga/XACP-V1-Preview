@@ -20,7 +20,7 @@ Experimental ARM coprocessor framework for the ZZ9000.
 - firmware/
 - docs/
 - sdk/
-- experimental/
+- applications/
 
 ## Status
 
