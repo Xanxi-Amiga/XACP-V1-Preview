@@ -31,3 +31,16 @@ As a result, some historical Mandelbrot demo clients may no longer work correctl
 
 The original demonstrations nevertheless remain historically important because they represent some of the first successful public demonstrations of generic ARM compute offloading on the ZZ9000 platform.
 
+
+## Historical References
+
+Original public demonstrations:
+
+* Amibay development thread:
+(https://www.amibay.com/threads/beyond-scanlines-zz9000-arm-coprocessor-experiments.2459012/)
+* YouTube demonstrations:
+https://youtu.be/PaW-dg9df0M
+https://youtu.be/C3OIMTwJfA8
+
+These demonstrations were publicly shown on May 7th, 2026 during the early public evolution of the XACP architecture.
+
