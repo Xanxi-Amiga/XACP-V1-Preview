@@ -26,3 +26,8 @@ Experimental ARM coprocessor framework for the ZZ9000.
 
 Experimental developer preview.
 Not intended for end users yet.
+
+
+## Credits
+
+Special thanks to Antony Mo for external testing and feedback on several XX16c/XACP experimental builds during the development process.
