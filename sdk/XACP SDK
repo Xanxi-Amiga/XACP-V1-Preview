@@ -1,0 +1,12 @@
+# XACP SDK
+
+This directory will contain future public XACP headers, helper libraries and example source code.
+
+Planned contents:
+
+* xacp.h
+* xacp_stream.h
+* opcode definitions
+* helper accessors
+* example applications
+
