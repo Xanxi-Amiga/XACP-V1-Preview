@@ -15,3 +15,15 @@ Validated features:
 
 This demo demonstrates that the XACP architecture evolved beyond the original Mandelbrot experiments into a more advanced multi-core ARM execution model.
 
+## Historical References
+
+Original public demonstrations:
+
+* Amibay development thread:
+https://www.amibay.com/threads/beyond-scanlines-zz9000-arm-coprocessor-experiments.2459012/
+
+* YouTube demonstrations:
+  https://youtu.be/SRgtJtQZTxo
+  https://youtu.be/Uj4IW-JH0ro
+  
+These demonstrations were publicly shown on May 14th and 17th, 2026 during the early public evolution of the XACP architecture.
