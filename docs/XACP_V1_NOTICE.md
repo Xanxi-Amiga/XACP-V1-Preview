@@ -266,5 +266,5 @@ Mandelbrot / Julia set renderer writing directly to the RTG framebuffer.
 
 ---
 
-*XACP V1 — Preview SDK — Xanxi 2025*
-*ZZ9000 firmware base: MNT 1.13 / BlitterStudio 2.0.1*
+*XACP V1 — Preview SDK — Xanxi 2026*
+*ZZ9000 firmware base: MNT 1.13 *
