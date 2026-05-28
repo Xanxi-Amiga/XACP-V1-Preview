@@ -20,8 +20,9 @@ eXtended ARM coprocessor protocol for the ZZ9000 Amiga RTG board.
 
 ## Status
 
-Experimental developer preview.
-Not intended for end users yet.
+Public beta firmware for ARM-assisted multimedia features on ZZ9000.
+Includes working MP3 playback, GUI tools and still Scanlines V2 enhancements.
+Tested on real Amiga hardware.
 
 
 ## Credits
