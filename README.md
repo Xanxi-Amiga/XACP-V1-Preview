@@ -1,5 +1,5 @@
 # XACP-V1
-eXtended ARM coprocessor framework for the ZZ9000 Amiga RTG board.
+eXtended ARM coprocessor protocol for the ZZ9000 Amiga RTG board.
 
 ## Current validated features
 
