@@ -74,5 +74,6 @@ The main objective of this release is to provide:
 
 Further ABI refinements and compatibility improvements may arrive in future versions.
 
-This implementation was written from scratch for the XACP/ZZ9000 environment using a standard GCC/libnix toolchain and does not derive from the original mpega.library source code.
+This XACP implementation was developed independently from scratch using a standard GCC/libnix environment while maintaining compatibility with the legacy mpega.library API.
+
 
